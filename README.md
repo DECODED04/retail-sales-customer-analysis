@@ -33,7 +33,7 @@ How is the business performing across products, customers, countries, and time, 
 
 ### Customer Demographics
 
-![Customer Demographics](images/CUSTOMER-DEMO.jpg)
+![Customer Demographics](image/PR4-CUSTOMER-DEMO.jpg)
 
 ## Key Insights
 
