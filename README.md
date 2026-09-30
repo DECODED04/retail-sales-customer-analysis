@@ -25,7 +25,7 @@ How is the business performing across products, customers, countries, and time, 
 
 ### Sales Performance Overview
 
-![Sales Performance Overview]()
+![Sales Performance Overview](image/PR4-SALES-CUSTOMER.jpg)
 
 ### Product Performance Breakdown
 
@@ -61,4 +61,4 @@ How is the business performing across products, customers, countries, and time, 
 
 - Customer purchasing patterns should be analyzed beyond demographic characteristics to identify valuable customer segments and opportunities for targeted marketing.
 
-- The decline in sales after 2019 should be investigated further before drawing conclusions about business performance, particularly to confirm whether later years contain complete sales records.
+
