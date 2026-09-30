@@ -25,11 +25,11 @@ How is the business performing across products, customers, countries, and time, 
 
 ### Sales Performance Overview
 
-![Sales Performance Overview](images/PR4-SALES-CUST.jpg)
+![Sales Performance Overview]()
 
 ### Product Performance Breakdown
 
-![Product Performance Breakdown](images/PR4-PRODUCT-OVERVIEW.jpg)
+![Product Performance Breakdown](image/PR4-PRODUCT-OVERVIEW.jpg)
 
 ### Customer Demographics
 
